@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780519635425",
+    "project_id": "allcoinexchange-a6408",
+    "storage_bucket": "allcoinexchange-a6408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780519635425:android:84ce446e566f27bf95faa0",
+        "android_client_info": {
+          "package_name": "com.example.allcoinexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780519635425-r8o6k43nile7ra7b0ibhn6fcjetrbtrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCosUAEMF9nO2Jmc4p7lnr8_Z3jSzpPihg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780519635425-r8o6k43nile7ra7b0ibhn6fcjetrbtrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
